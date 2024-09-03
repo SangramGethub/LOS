@@ -7,6 +7,7 @@ public class Aas {
 
 		System.out.println("Sangram");
 		System.out.println("Sampada");
+		System.out.println("Love");
 	}
 
 }
