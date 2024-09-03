@@ -6,6 +6,7 @@ public class Aas {
 		// TODO Auto-generated method stub
 
 		System.out.println("Sangram");
+		System.out.println("Sampada");
 	}
 
 }
